@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@800&display=swap');
+
+*{
+  box-sizing: border-box;
+  margin: 0:
+  padding: 9;
+  background-color: #24252A;
+}
+
+p{
+    color:#ffffff;
+    font-family: "outfit", sans-serif;
+    font-weight: : 200;
+
+}
+
+h1{
+    color:#ffffff;
+    font-family: "outfit", sans-serif;
+    font-weight: : 500;
+
+}
+
+html{
+    color: #ffffff
+    font-family: "outfit", sans-serif;
+    font-weight: : 200;
+
+}
